@@ -1,0 +1,6 @@
+Titanic Logistic Regression Results
+Accuracy: 0.7989
+Precision: 0.7231
+Recall: 0.7231
+F1-score: 0.7231
+Specificity: 0.8421
